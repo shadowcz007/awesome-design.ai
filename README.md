@@ -1,10 +1,10 @@
 # awesome-design.ai
 
-> Useful resources for creating Design Artificial Intelligence
+> Useful resources for creating Design Artificial Intelligence :gift:  :gem: 
 
 
 
-## :gift: Papers
+## Papers
 
 | Title | Publication | Links | 
 | --- | --- | --- |
@@ -38,7 +38,7 @@
 
 
 
-## :gem: Books
+## Books
 
 | |Name | Authors | Year | Links |  
 | --- |--- | --- | --- | --- |  
@@ -49,7 +49,7 @@
 
 
 
-## :rocket: Tools
+## Tools
 | Name | About | Links |
 | --- | --- | --- |
 | color-thief | Grab the color palette from an image <br> 从图片提取色彩| [github](https://github.com/lokesh/color-thief)|
@@ -58,7 +58,22 @@
 |p5.js | P5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web|[github](https://github.com/processing/p5.js)|
 
 
-## :zzz: Sites
+## Sites
 - [arxiv](https://arxiv.org/)
 - [deepai](https://deepai.org/)
 - [paperswithcode](https://paperswithcode.com/)
+
+
+:rocket:
+
+
+## Support
+
+Reach out to me at one of the following places!
+
+- email at `389570357@qq.com`
+
+
+## License
+
+[![License](https://img.shields.io/:license-mit-blue.svg?style=flat-square)](LICENSE)
