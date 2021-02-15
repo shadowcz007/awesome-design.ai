@@ -23,7 +23,7 @@
 | ManiGAN: Text-Guided Image | CVPR 2020 |  [paper](https://arxiv.org/abs/1912.06203)<br> [code](https://github.com/mrlibw/ManiGAN) |  
 | Designing with AI for Digital Marketing <br>数字营销中的人工智能设计 | ACM UMAP 2020 | [paper](https://dl.acm.org/doi/10.1145/3386392.3397600) |  
 | Content-aware Generative Modeling of Graphic Design Layouts | SIGGRAPH 2019 | [paper](https://xtqiao.com/projects/content_aware_layout/) |  
-| May AI?: Design Ideation with Cooperative Contextual Bandits | CHI 2019 | [paper](https://dl.acm.org/doi/10.1145/3290605.3300863) <br>[code](https://github.com/aalto-ui/MayAI) |  
+| May AI: Design Ideation with Cooperative Contextual Bandits | CHI 2019 | [paper](https://dl.acm.org/doi/10.1145/3290605.3300863) <br>[code](https://github.com/aalto-ui/MayAI) |  
 | LayoutGAN: Generating Graphic Layouts with Wireframe Discriminators <br>利用数据学习布局排版的新方法 | ICLR 2019 |  [paper](https://arxiv.org/pdf/1901.06767.pdf)<br> [code](https://github.com/billzhonggz/LayoutGAN)<br>[笔记](https://mp.weixin.qq.com/s/Z754Dv1FMAJGGPunmmjntQ) |  
 | Enabling Hyper-Personalisation: Automated Ad Creative Generation and Ranking for Fashion e-Commerce<br> 广告图生成与排序（个性化推荐） | [recsysXfashion’19](https://zalandoresearch.github.io/fashionxrecsys/) | [paper](https://arxiv.org/pdf/1908.10139.pdf) |  
 | GANalyze: Toward Visual Definitions of Cognitive Image Properties | ICCV 2019 | [paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Goetschalckx_GANalyze_Toward_Visual_Definitions_of_Cognitive_Image_Properties_ICCV_2019_paper.pdf)<br> [code](https://github.com/LoreGoetschalckx/GANalyze) |  
