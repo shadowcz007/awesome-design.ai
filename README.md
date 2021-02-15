@@ -3,14 +3,15 @@
 > Useful resources for creating Design Artificial Intelligence
 
 
+
 ## :gift: Papers
 
 | Title | Publication | Links | More| 
 | --- | --- | --- | --- |
-| GRIDS: Interactive Layout Design with Integer Programming 自动布局生成之基于网格的布局 | CHI 2020 | [paper](https://arxiv.org/pdf/2001.02921) | [笔记](https://mp.weixin.qq.com/s/QAKUou7ZQYY7vZv--9aAIw) |
+| GRIDS: Interactive Layout Design with Integer Programming 自动布局生成之基于网格的布局 | CHI 2020 | [paper](https://arxiv.org/pdf/2001.02921),[code](https://github.com/aalto-ui/GRIDS) | [笔记](https://mp.weixin.qq.com/s/QAKUou7ZQYY7vZv--9aAIw) |
 | End-to-end Generative Floor-plan and Layout with Attributes and Relation Graph | 2020 | [paper](https://arxiv.org/pdf/2012.08514.pdf) | 
 | Auto Completion of User Interface Layout Design Using Transformer-Based Tree Decoders | 2020 | [paper](https://arxiv.org/pdf/2001.05308.pdf) |
-| RealitySketch:Embedding Responsive Graphics and Visualizations in AR through Dynamic Sketching 在AR中嵌入响应式图形和可视化 | UIST 2020 | [笔记](https://mp.weixin.qq.com/s/IPWo-dmKZeg4CHrNuPZYAw) |
+| RealitySketch:Embedding Responsive Graphics and Visualizations in AR through Dynamic Sketching 在AR中嵌入响应式图形和可视化 | UIST 2020 | [paper](https://arxiv.org/pdf/2008.08688) |[笔记](https://mp.weixin.qq.com/s/IPWo-dmKZeg4CHrNuPZYAw) |
 | Artificial Intelligence in the Creative Industries: A Review 综述：人工智能在创意产业的应用| arXiv 2020 | [paper](https://arxiv.org/pdf/2007.12391.pdf) | [笔记](https://mp.weixin.qq.com/s/5q2zm8gmPeN7kFRNkcOkPA)|
 | Neural Design Network: Graphic Layout Generation with Constraints 基于约束的布局生成 | ECCV 2020 | [paper](https://arxiv.org/pdf/1912.09421.pdf) |  [笔记](https://mp.weixin.qq.com/s/S75tRSBh3hQIUAXn11AwCA) |
 | Attribute-conditioned Layout GAN for Automatic Graphic Design | IEEE Transactions on Visualization and Computer Graphics 2020 | [paper](https://www.researchgate.net/publication/341845193_Attribute-conditioned_Layout_GAN_for_Automatic_Graphic_Design) |  
