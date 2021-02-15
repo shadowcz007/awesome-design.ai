@@ -2,7 +2,7 @@
 
 > Useful resources for creating Design Artificial Intelligence
 
-
+<br>
 ## :gift: Papers
 
 | Title | Publication | Links | 
@@ -35,7 +35,7 @@
 | Automatic Design of Colors for Magazine Covers<br> 杂志封面的自动配色| Imaging and Printing in a Web 2.0 World IV 2013 | [paper](http://people.csail.mit.edu/jahanian/papers/Jahanian_ColorDesign_ADoMC_EI2013.pdf) |  
 | Color design support system considering color harmony<br> 考虑色彩和谐的色彩设计支持系统| IEEE 2002 | [paper](https://ieeexplore.ieee.org/document/1005020)
 
-
+<br>
 ## :gem: Books
 
 | Name | Authors | Year | Links |  
@@ -43,7 +43,7 @@
 | AI and UX Why Artificial Intelligence Needs User Experience | Gavin Lew; Robert M. Schumacher Jr. | 2020 |  [amazon](https://www.amazon.com/dp/148425774X) <br>[笔记](https://mp.weixin.qq.com/s/uORDpOJf3Nbi6Q5pjSdHvw)|  
 
 
-
+<br>
 ## :rocket: Tools
 | Name | About | Links |
 | --- | --- | --- |
