@@ -1,6 +1,6 @@
 # awesome-design.ai
 
-> Useful resources for creating Design Artificial Intelligence :gift:  :gem: :rocket:
+> :gift:  :gem: :rocket: Useful resources for creating Design Artificial Intelligence 
 
 
 
@@ -20,7 +20,7 @@
 | Predicting A Creator's Preferences In, and From, Interactive Generative Art <br>预测使用者对艺术的偏好| arXiv 2020 | [paper](https://arxiv.org/pdf/2003.01274.pdf) |  
 | Let Me Choose: From Verbal Context to Font Selection <br>根据语义自动选择字体 | ACL 2020 | [paper](https://arxiv.org/pdf/2005.01151.pdf) |  
 | ICONATE: Automatic Compound Icon Generation and Ideation <br>图标组合与生成| CHI 2020 | [paper](http://nxzhao.com/projects/ICONATE/) <br>[笔记](https://mp.weixin.qq.com/s/A-JocdwK5Sq501PZXDLo9w)|
-| ManiGAN: Text-Guided Image | CVPR 2020 |  [paper](https://arxiv.org/abs/1912.06203)<br> [code](https://github.com/mrlibw/ManiGAN) |  
+| ManiGAN: Text-Guided Image Manipulation | CVPR 2020 |  [paper](https://arxiv.org/abs/1912.06203)<br> [code](https://github.com/mrlibw/ManiGAN) |  
 | Designing with AI for Digital Marketing <br>数字营销中的人工智能设计 | ACM UMAP 2020 | [paper](https://dl.acm.org/doi/10.1145/3386392.3397600) |  
 | Content-aware Generative Modeling of Graphic Design Layouts | SIGGRAPH 2019 | [paper](https://xtqiao.com/projects/content_aware_layout/) |  
 | May AI: Design Ideation with Cooperative Contextual Bandits | CHI 2019 | [paper](https://dl.acm.org/doi/10.1145/3290605.3300863) <br>[code](https://github.com/aalto-ui/MayAI) |  
@@ -30,7 +30,7 @@
 | Large Scale GAN Trainning for High Fidelity Natural Image Synthesis | ICLR 2019 |  [paper](https://arxiv.org/pdf/1809.11096.pdf)<br> [code](https://artbreeder.com/browse)|  
 | Exemplar based experience transfer <br>基于范例的海报生成 | IUI 2019 | [paper](https://dl.acm.org/doi/10.1145/3301275.3302300) |  
 | Graphic Narrative with Interactive Stylization Design <br>绘本叙事（漫画）生成 | arXiv 2017 | [paper](https://arxiv.org/pdf/1712.06654.pdf) <br>[笔记](https://mp.weixin.qq.com/s/WgAh05J_21kygesbomKeew)| 
-| Automatic Generation of Visual-Textual Presentation Layout | TOMM 2017 | [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/a33-yang.pdf) |
+| Automatic Generation of Visual-Textual Presentation Layout <br>图文排版的自动生成算法| TOMM 2017 | [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/a33-yang.pdf) |
 | Automatic Content-Aware Color and Tone Stylization<br> 基于图像内容的色彩调整| CVPR 2016 | [paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lee_Automatic_Content-Aware_Color_CVPR_2016_paper.pdf)<br> [code](https://github.com/jinyu121/ACACTS) |  
 | Automating Layouts Bring Flipboard’s Magazine Style To Web And Windows | TechCrunch 2014 | [paper](https://techcrunch.com/2014/03/23/layout-in-flipboard-for-web-and-windows/) |  
 | Automatic Design of Colors for Magazine Covers<br> 杂志封面的自动配色| Imaging and Printing in a Web 2.0 World IV 2013 | [paper](http://people.csail.mit.edu/jahanian/papers/Jahanian_ColorDesign_ADoMC_EI2013.pdf) |  
