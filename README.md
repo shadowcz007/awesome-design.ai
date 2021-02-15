@@ -30,7 +30,7 @@
 | Large Scale GAN Trainning for High Fidelity Natural Image Synthesis | ICLR 2019 |  [paper](https://arxiv.org/pdf/1809.11096.pdf)<br> [code](https://artbreeder.com/browse)|  
 | Exemplar based experience transfer <br>基于范例的海报生成 | IUI 2019 | [paper](https://dl.acm.org/doi/10.1145/3301275.3302300) |  
 | Graphic Narrative with Interactive Stylization Design <br>绘本叙事（漫画）生成 | arXiv 2017 | [paper](https://arxiv.org/pdf/1712.06654.pdf) <br>[笔记](https://mp.weixin.qq.com/s/WgAh05J_21kygesbomKeew)| 
-| Automatic Generation of Visual-Textual Presentation Layout <br>图文排版的自动生成算法| TOMM 2017 | [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/a33-yang.pdf) [笔记](https://mp.weixin.qq.com/s/SYP2jnDwhJYL0NZ_HznTzQ)|
+| Automatic Generation of Visual-Textual Presentation Layout <br>图文排版的自动生成算法| TOMM 2017 | [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/a33-yang.pdf) [笔记](https://mp.weixin.qq.com/s/SYP2jnDwhJYL0NZ_HznTzQ)[介绍](https://zhuanlan.zhihu.com/p/28561485)|
 | Automatic Content-Aware Color and Tone Stylization<br> 基于图像内容的色彩调整| CVPR 2016 | [paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lee_Automatic_Content-Aware_Color_CVPR_2016_paper.pdf)<br> [code](https://github.com/jinyu121/ACACTS) |  
 | Automating Layouts Bring Flipboard’s Magazine Style To Web And Windows | TechCrunch 2014 | [paper](https://techcrunch.com/2014/03/23/layout-in-flipboard-for-web-and-windows/) |  
 | Automatic Design of Colors for Magazine Covers<br> 杂志封面的自动配色| Imaging and Printing in a Web 2.0 World IV 2013 | [paper](http://people.csail.mit.edu/jahanian/papers/Jahanian_ColorDesign_ADoMC_EI2013.pdf) |  
