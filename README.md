@@ -1,15 +1,13 @@
 # awesome-design.ai
 
 > Useful resources for creating Design Artificial Intelligence
-> 
 
-##
 
 ## :gift: Papers
 
 | Title | Publication | Links | 
 | --- | --- | --- |
-| GRIDS: Interactive Layout Design with Integer Programming 自动布局生成之基于网格的布局 | CHI 2020 | [paper](https://arxiv.org/pdf/2001.02921),[code](https://github.com/aalto-ui/GRIDS),[笔记](https://mp.weixin.qq.com/s/QAKUou7ZQYY7vZv--9aAIw) |
+| GRIDS: Interactive Layout Design with Integer Programming <br>自动布局生成之基于网格的布局 | CHI 2020 | [paper](https://arxiv.org/pdf/2001.02921),[code](https://github.com/aalto-ui/GRIDS),[笔记](https://mp.weixin.qq.com/s/QAKUou7ZQYY7vZv--9aAIw) |
 | End-to-end Generative Floor-plan and Layout with Attributes and Relation Graph | 2020 | [paper](https://arxiv.org/pdf/2012.08514.pdf) | 
 | Auto Completion of User Interface Layout Design Using Transformer-Based Tree Decoders | 2020 | [paper](https://arxiv.org/pdf/2001.05308.pdf) |
 | RealitySketch:Embedding Responsive Graphics and Visualizations in AR through Dynamic Sketching 在AR中嵌入响应式图形和可视化 | UIST 2020 | [paper](https://arxiv.org/pdf/2008.08688) ,[笔记](https://mp.weixin.qq.com/s/IPWo-dmKZeg4CHrNuPZYAw) |
@@ -38,9 +36,6 @@
 | Color design support system considering color harmony 考虑色彩和谐的色彩设计支持系统| IEEE 2002 | [paper](https://ieeexplore.ieee.org/document/1005020)
 
 
-
-## 
-
 ## :gem: Books
 
 | Name | Authors | Year | Links |  
@@ -48,7 +43,6 @@
 | AI and UX Why Artificial Intelligence Needs User Experience | Gavin Lew; Robert M. Schumacher Jr. | 2020 |  [amazon](https://www.amazon.com/dp/148425774X) |  
 
 
-## 
 
 ## :rocket: Tools
 ……
