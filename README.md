@@ -1,6 +1,6 @@
 # awesome-design.ai
 
-> Useful resources for creating Design Artificial Intelligence :gift:  :gem: 
+> Useful resources for creating Design Artificial Intelligence :gift:  :gem: :rocket:
 
 
 
@@ -62,9 +62,6 @@
 - [arxiv](https://arxiv.org/)
 - [deepai](https://deepai.org/)
 - [paperswithcode](https://paperswithcode.com/)
-
-
-:rocket:
 
 
 ## Support
