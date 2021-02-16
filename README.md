@@ -44,7 +44,7 @@
 | --- |--- | --- | --- | --- |  
 | <img src='https://images-na.ssl-images-amazon.com/images/I/410Xdc3mcwL._SX319_BO1,204,203,200_.jpg'/> | The Nature of Technology: What it is and how it evolves <br>技术的本质 | W. Brian Arthur | 2011 | [amazon](https://www.amazon.com/-/zh/dp/1416544062) |
 | <img src='https://images-na.ssl-images-amazon.com/images/I/41xHHXs1awL._SX328_BO1,204,203,200_.jpg'/>| AI and UX Why Artificial Intelligence Needs User Experience <br>为什么人工智能需要用户体验设计？| Gavin Lew; Robert M. Schumacher Jr. | 2020 |  [amazon](https://www.amazon.com/dp/148425774X) <br>[笔记](https://mp.weixin.qq.com/s/uORDpOJf3Nbi6Q5pjSdHvw)|  
-|<img src='https://images-na.ssl-images-amazon.com/images/I/51T+8q3bh5L._SX331_BO1,204,203,200_.jpg'/>|Smart Cities and Artificial Intelligence: Convergent Systems for Planning, Design, and Operations|Christopher Grant Kirwan, Zhiyong Fu |2020|[amazon](https://www.amazon.com/-/zh/dp/0128170247)<br>(笔记)[https://mp.weixin.qq.com/s/avrtzjqLMRqb8Xy-d8Ao9Q]|
+|<img src='https://images-na.ssl-images-amazon.com/images/I/51T+8q3bh5L._SX331_BO1,204,203,200_.jpg'/>|Smart Cities and Artificial Intelligence: Convergent Systems for Planning, Design, and Operations|Christopher Grant Kirwan, Zhiyong Fu |2020|[amazon](https://www.amazon.com/-/zh/dp/0128170247)<br>[笔记](https://mp.weixin.qq.com/s/avrtzjqLMRqb8Xy-d8Ao9Q)|
 
 
 
