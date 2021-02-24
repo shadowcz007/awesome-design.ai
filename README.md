@@ -8,6 +8,7 @@
 
 | Title | Publication | Links | 
 | --- | --- | --- |
+| Automatic Comic Generation with Stylistic Multi-page Layouts and Emotion-driven Text Balloon Generation 漫画自动生成系统：将影视生成为风格化多页布局和文字气泡| 2021 | [paper](https://arxiv.org/abs/2101.11111) |
 | Symbol Spotting on Digital Architectural Floor Plans Using a Deep Learning-based Framework<br>使用深度学习在建筑平面图上检测符号 | CVPR2020 |[paper](https://arxiv.org/pdf/2006.00684)|
 | GRIDS: Interactive Layout Design with Integer Programming <br>自动布局生成之基于网格的布局 | CHI 2020 | [paper](https://arxiv.org/pdf/2001.02921)<br>[code](https://github.com/aalto-ui/GRIDS)<br>[笔记](https://mp.weixin.qq.com/s/QAKUou7ZQYY7vZv--9aAIw) |
 | End-to-end Generative Floor-plan and Layout with Attributes and Relation Graph | 2020 | [paper](https://arxiv.org/pdf/2012.08514.pdf) | 
