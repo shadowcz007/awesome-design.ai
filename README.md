@@ -58,13 +58,20 @@
 | color-thief | Grab the color palette from an image <br> 从图片提取色彩| [github](https://github.com/lokesh/color-thief)|
 | smartcrop.js | Content aware image cropping <br>基于内容的图片智能裁切 |[github](https://github.com/jwagner/smartcrop.js)|
 | tfjs-models|Pretrained models <br>预训练模型 |[github](https://github.com/tensorflow/tfjs-models)|
-|p5.js | P5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web|[github](https://github.com/processing/p5.js)|
+| p5.js | P5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web|[github](https://github.com/processing/p5.js)|
+
 
 
 ## Sites
 - [arxiv](https://arxiv.org/)
 - [deepai](https://deepai.org/)
 - [paperswithcode](https://paperswithcode.com/)
+- [Algorithm-Driven Design](https://algorithms.design)
+- [Generativeartistry](https://generativeartistry.com)
+- [The Nature of Code](https://natureofcode.com/book)
+- [The Coding Train](https://thecodingtrain.com)
+- [Timrodenbroker](https://timrodenbroeker.de/resources)
+- [ml4a](https://ml4a.github.io/classes)
 
 
 ## Support
