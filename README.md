@@ -75,6 +75,66 @@
 - [ml4a](https://ml4a.github.io/classes)
 
 
+## Smart Products
+
+Images
+-	[DALL·E](https://openai.com/blog/dall-e/) 
+Create images from text
+
+-	[Designs.ai](https://designs.ai/en/logomaker) 
+Create logos
+
+-	[This Person Does Not Exist](https://thispersondoesnotexist.com/) 
+Generate faces
+
+
+Voice
+- [Overdub](https://www.descript.com/overdub)
+Clone voices
+
+
+- [Replika](https://replika.ai/)
+An AI companion
+
+
+- [Replica](https://replicastudios.com/)
+AI voice actors
+
+
+Video
+- [Rosebud AI](https://www.rosebud.ai/)
+Create virtual characters
+
+- [Alethea](https://alethea.ai/)
+AI-generated avatars
+
+
+- [Synthesia](https://www.synthesia.io/)
+Create videos without actors
+
+
+- [Reface](https://hey.reface.ai/)
+Create face swap videos
+
+
+Text
+- GPT-3
+An advanced language model
+
+- [IdeasAI](https://ideasai.net/)
+AI-generated startup ideas
+
+
+- [Shortly](https://www.shortlyai.com/)
+Complete your thoughts
+
+- [Frase.io](https://www.frase.io/)
+Create content briefs and answer questions
+
+
+![image](https://user-images.githubusercontent.com/12645064/112951623-1fbf6880-916e-11eb-8505-d701f256dc39.png)
+
+
 ## Support
 
 Reach out to me at one of the following places!
