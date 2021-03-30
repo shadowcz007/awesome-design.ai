@@ -132,8 +132,6 @@ Complete your thoughts
 Create content briefs and answer questions
 
 
-![image](https://user-images.githubusercontent.com/12645064/112951623-1fbf6880-916e-11eb-8505-d701f256dc39.png)
-
 
 ## Support
 
