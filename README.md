@@ -2,6 +2,7 @@
 
 > :gift:  :gem: :rocket: Useful resources for creating Design Artificial Intelligence 
 
+<a href="https://www.producthunt.com/posts/awesome-design-ai?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-design-ai" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=290031&theme=dark" alt="awesome-design.ai - Useful resources for creating Design Artificial Intelligence | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 
 ## Papers
