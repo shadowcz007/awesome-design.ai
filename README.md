@@ -9,6 +9,7 @@
 
 | Title | Publication | Links | 
 | --- | --- | --- |
+| Predicting Visual Importance Across Graphic Design Types 跨平面设计类型预测视觉重要性 | UIST 2020 | [paper](http://predimportance.mit.edu/#Paper) |
 | Automatic Comic Generation with Stylistic Multi-page Layouts and Emotion-driven Text Balloon Generation 漫画自动生成系统：将影视生成为风格化多页布局和文字气泡| 2021 | [paper](https://arxiv.org/abs/2101.11111) |
 | Symbol Spotting on Digital Architectural Floor Plans Using a Deep Learning-based Framework<br>使用深度学习在建筑平面图上检测符号 | CVPR2020 |[paper](https://arxiv.org/pdf/2006.00684)|
 | GRIDS: Interactive Layout Design with Integer Programming <br>自动布局生成之基于网格的布局 | CHI 2020 | [paper](https://arxiv.org/pdf/2001.02921)<br>[code](https://github.com/aalto-ui/GRIDS)<br>[笔记](https://mp.weixin.qq.com/s/QAKUou7ZQYY7vZv--9aAIw) |
