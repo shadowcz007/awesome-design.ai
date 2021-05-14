@@ -9,6 +9,7 @@
 
 | Title | Publication | Links | 
 | --- | --- | --- |
+| Vinci: An Intelligent Graphic Design System for Generating Advertising Posters用于生成广告海报的智能图形设计系统 | CHI 2021 |[paper](https://dl.acm.org/doi/fullHtml/10.1145/3411764.3445117)|
 | Automatic Comic Generation with Stylistic Multi-page Layouts and Emotion-driven Text Balloon Generation 漫画自动生成系统：将影视生成为风格化多页布局和文字气泡| 2021 | [paper](https://arxiv.org/abs/2101.11111) |
 | Predicting Visual Importance Across Graphic Design Types 跨平面设计类型预测视觉重要性 | UIST 2020 | [paper](http://predimportance.mit.edu/#Paper) |
 | Symbol Spotting on Digital Architectural Floor Plans Using a Deep Learning-based Framework<br>使用深度学习在建筑平面图上检测符号 | CVPR2020 |[paper](https://arxiv.org/pdf/2006.00684)|
