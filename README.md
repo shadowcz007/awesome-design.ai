@@ -9,19 +9,19 @@
 
 | Title | Publication | Links | 
 | --- | --- | --- |
-| Screen Recognition: Creating Accessibility Metadata for Mobile Applications from Pixels 通过屏幕截图识别UI语义 | CHI 2021 | [paper](https://dl.acm.org/doi/fullHtml/10.1145/3411764.3445186) |
-| House-GAN++: Generative Adversarial Layout Refinement Networks 建筑平面图生成 | CVPR 2021 | [paper](https://arxiv.org/abs/2103.02574) [笔记](https://mp.weixin.qq.com/s/jtPtiLagnJ2jiXmJtmCUcA)|
-| Vinci: An Intelligent Graphic Design System for Generating Advertising Posters用于生成广告海报的智能图形设计系统 | CHI 2021 |[paper](https://dl.acm.org/doi/fullHtml/10.1145/3411764.3445117)|
-| Automatic Comic Generation with Stylistic Multi-page Layouts and Emotion-driven Text Balloon Generation 漫画自动生成系统：将影视生成为风格化多页布局和文字气泡| 2021 | [paper](https://arxiv.org/abs/2101.11111) |
-| Predicting Visual Importance Across Graphic Design Types 跨平面设计类型预测视觉重要性 | UIST 2020 | [paper](http://predimportance.mit.edu/#Paper) |
-| Symbol Spotting on Digital Architectural Floor Plans Using a Deep Learning-based Framework<br>使用深度学习在建筑平面图上检测符号 | CVPR2020 |[paper](https://arxiv.org/pdf/2006.00684)|
+| Screen Recognition: Creating Accessibility Metadata for Mobile Applications from Pixels <br>通过屏幕截图识别UI语义 | CHI 2021 | [paper](https://dl.acm.org/doi/fullHtml/10.1145/3411764.3445186) |
+| House-GAN++: Generative Adversarial Layout Refinement Networks <br>建筑平面图生成 | CVPR 2021 | [paper](https://arxiv.org/abs/2103.02574) [笔记](https://mp.weixin.qq.com/s/jtPtiLagnJ2jiXmJtmCUcA)|
+| Vinci: An Intelligent Graphic Design System for Generating Advertising Posters <br>用于生成广告海报的智能图形设计系统 | CHI 2021 |[paper](https://dl.acm.org/doi/fullHtml/10.1145/3411764.3445117)|
+| Automatic Comic Generation with Stylistic Multi-page Layouts and Emotion-driven Text Balloon Generation <br>漫画自动生成系统：将影视生成为风格化多页布局和文字气泡| 2021 | [paper](https://arxiv.org/abs/2101.11111) |
+| Predicting Visual Importance Across Graphic Design Types <br>跨平面设计类型预测视觉重要性 | UIST 2020 | [paper](http://predimportance.mit.edu/#Paper) |
+| Symbol Spotting on Digital Architectural Floor Plans Using a Deep Learning-based Framework <br>使用深度学习在建筑平面图上检测符号 | CVPR2020 |[paper](https://arxiv.org/pdf/2006.00684)|
 | GRIDS: Interactive Layout Design with Integer Programming <br>自动布局生成之基于网格的布局 | CHI 2020 | [paper](https://arxiv.org/pdf/2001.02921)<br>[code](https://github.com/aalto-ui/GRIDS)<br>[笔记](https://mp.weixin.qq.com/s/QAKUou7ZQYY7vZv--9aAIw) |
-| End-to-end Generative Floor-plan and Layout with Attributes and Relation Graph | 2020 | [paper](https://arxiv.org/pdf/2012.08514.pdf) | 
-| Auto Completion of User Interface Layout Design Using Transformer-Based Tree Decoders | 2020 | [paper](https://arxiv.org/pdf/2001.05308.pdf) |
+| End-to-end Generative Floor-plan and Layout with Attributes and Relation Graph <br>使用带属性和关系的图数据，生成平面布置图| 2020 | [paper](https://arxiv.org/pdf/2012.08514.pdf) | 
+| Auto Completion of User Interface Layout Design Using Transformer-Based Tree Decoders <br>自动完成用户界面布局设计 | 2020 | [paper](https://arxiv.org/pdf/2001.05308.pdf) |
 | RealitySketch:Embedding Responsive Graphics and Visualizations in AR through Dynamic Sketching <br>在AR中嵌入响应式图形和可视化 | UIST 2020 | [paper](https://arxiv.org/pdf/2008.08688) <br>[笔记](https://mp.weixin.qq.com/s/IPWo-dmKZeg4CHrNuPZYAw) |
 | Artificial Intelligence in the Creative Industries: A Review <br>综述：人工智能在创意产业的应用| arXiv 2020 | [paper](https://arxiv.org/pdf/2007.12391.pdf)<br>[笔记](https://mp.weixin.qq.com/s/5q2zm8gmPeN7kFRNkcOkPA)|
 | Neural Design Network: Graphic Layout Generation with Constraints <br>基于约束的布局生成 | ECCV 2020 | [paper](https://arxiv.org/pdf/1912.09421.pdf)<br>[笔记](https://mp.weixin.qq.com/s/S75tRSBh3hQIUAXn11AwCA) |
-| Attribute-conditioned Layout GAN for Automatic Graphic Design | IEEE Transactions on Visualization and Computer Graphics 2020 | [paper](https://www.researchgate.net/publication/341845193_Attribute-conditioned_Layout_GAN_for_Automatic_Graphic_Design) |  
+| Attribute-conditioned Layout GAN for Automatic Graphic Design 使用GAN的自动平面设计| IEEE Transactions on Visualization and Computer Graphics 2020 | [paper](https://www.researchgate.net/publication/341845193_Attribute-conditioned_Layout_GAN_for_Automatic_Graphic_Design) |  
 | Category, process, and recommendation of design in an interactive evolutionary computation interior design experiment: a data-driven study | Cambridge University Press 2020 | [paper](https://doi.org/10.1017/S0890060420000050) |  
 | Beauty in artistic expressions through the eyes of networks and physics | Journal of the Royal Society Interface  2020 | [paper](https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2019.0686) |  
 | Predicting A Creator's Preferences In, and From, Interactive Generative Art <br>预测使用者对艺术的偏好| arXiv 2020 | [paper](https://arxiv.org/pdf/2003.01274.pdf) | 
