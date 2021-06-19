@@ -138,6 +138,10 @@ Complete your thoughts
 Create content briefs and answer questions
 
 
+## Guide
+
+[The Beginners Guide 初学者指南](https://github.com/shadowcz007/awesome-design.ai/blob/main/TheBeginnersGuide.md)
+
 
 ## Support
 
