@@ -5,7 +5,8 @@
 
 ## 代码仓库
 ### 🔗目标：
-掌握github的使用方式和md的语法
+
+  掌握github的使用方式和md的语法
 
 ### 快速入门：
   [markdown常用语法](https://www.runoob.com/markdown/md-tutorial.html)
@@ -13,13 +14,16 @@
   [github的使用（clone、add、commit、push）](https://www.jianshu.com/p/deb5eddbffb8)
 
 
+
 <br/><br/>
 
 ## 阅读材料&笔记
 ### 🔗目标：
-初步了解智能设计
+
+  初步了解智能设计
 
 ### 快速入门：
+
   1 新建个人的repo
 
   2 使用visual studio code拉取repo
@@ -53,7 +57,7 @@
 
 
 
-
+<br/><br/>
 ## HTML、CSS、JS练习环境
 ### 🔗目标：
 
