@@ -32,6 +32,7 @@
   格式参考：自我介绍（我是谁、最想做的事情），并为这门课立个flag。
 
   4 阅读材料，理解智能设计，并完成以下2个作业
+  
   [awesome-design.ai](https://github.com/shadowcz007/awesome-design.ai)
 
 作业1 ：
