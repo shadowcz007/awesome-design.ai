@@ -17,7 +17,7 @@
 | Symbol Spotting on Digital Architectural Floor Plans Using a Deep Learning-based Framework <br>使用深度学习在建筑平面图上检测符号 | CVPR2020 |[paper](https://arxiv.org/pdf/2006.00684)|
 | GRIDS: Interactive Layout Design with Integer Programming <br>自动布局生成之基于网格的布局 | CHI 2020 | [paper](https://arxiv.org/pdf/2001.02921)<br>[code](https://github.com/aalto-ui/GRIDS)<br>[笔记](https://mp.weixin.qq.com/s/QAKUou7ZQYY7vZv--9aAIw) |
 | End-to-end Generative Floor-plan and Layout with Attributes and Relation Graph <br>使用带属性和关系的图数据，生成平面布置图| 2020 | [paper](https://arxiv.org/pdf/2012.08514.pdf) | 
-| Intelligent Home 3D: Automatic 3D-House Design from Linguistic Descriptions Only <br>根据语言描述自动设计户型| CVPR 2020 |[paper](https://arxiv.org/abs/2003.00397) <br>[code](https://github.com/chenqi008/HPGM) ｜
+| Intelligent Home 3D: Automatic 3D-House Design from Linguistic Descriptions Only <br>根据语言描述自动设计户型| CVPR 2020 |[paper](https://arxiv.org/abs/2003.00397) <br>[code](https://github.com/chenqi008/HPGM)  |
 | Auto Completion of User Interface Layout Design Using Transformer-Based Tree Decoders <br>自动完成用户界面布局设计 | 2020 | [paper](https://arxiv.org/pdf/2001.05308.pdf) |
 | RealitySketch:Embedding Responsive Graphics and Visualizations in AR through Dynamic Sketching <br>在AR中嵌入响应式图形和可视化 | UIST 2020 | [paper](https://arxiv.org/pdf/2008.08688) <br>[笔记](https://mp.weixin.qq.com/s/IPWo-dmKZeg4CHrNuPZYAw) |
 | Artificial Intelligence in the Creative Industries: A Review <br>综述：人工智能在创意产业的应用| arXiv 2020 | [paper](https://arxiv.org/pdf/2007.12391.pdf)<br>[笔记](https://mp.weixin.qq.com/s/5q2zm8gmPeN7kFRNkcOkPA)|
