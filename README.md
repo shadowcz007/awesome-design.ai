@@ -36,6 +36,7 @@
 | Enabling Hyper-Personalisation: Automated Ad Creative Generation and Ranking for Fashion e-Commerce<br> 广告图生成与排序（个性化推荐） | [recsysXfashion’19](https://zalandoresearch.github.io/fashionxrecsys/) | [paper](https://arxiv.org/pdf/1908.10139.pdf) |  
 | GANalyze: Toward Visual Definitions of Cognitive Image Properties | ICCV 2019 | [paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Goetschalckx_GANalyze_Toward_Visual_Definitions_of_Cognitive_Image_Properties_ICCV_2019_paper.pdf)<br> [code](https://github.com/LoreGoetschalckx/GANalyze) |  
 | Large Scale GAN Trainning for High Fidelity Natural Image Synthesis | ICLR 2019 |  [paper](https://arxiv.org/pdf/1809.11096.pdf)<br> [code](https://artbreeder.com/browse)|  
+| How to Generate a Thousand Master Plans: A Framework for Computational Urban Design <br> 计算型城市设计框架 | simAUD 2019 | [paper](http://www.simaud.org/proceedings/) |
 | Exemplar based experience transfer <br>基于范例的海报生成 | IUI 2019 | [paper](https://dl.acm.org/doi/10.1145/3301275.3302300) |  
 | Graphic Narrative with Interactive Stylization Design <br>绘本叙事（漫画）生成 | arXiv 2017 | [paper](https://arxiv.org/pdf/1712.06654.pdf) <br>[笔记](https://mp.weixin.qq.com/s/WgAh05J_21kygesbomKeew)| 
 | Automatic Generation of Visual-Textual Presentation Layout <br>图文排版的自动生成算法| TOMM 2017 | [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/a33-yang.pdf)<br> [笔记](https://mp.weixin.qq.com/s/SYP2jnDwhJYL0NZ_HznTzQ)<br> [介绍](https://zhuanlan.zhihu.com/p/28561485)|
