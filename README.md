@@ -156,6 +156,8 @@ Create content briefs and answer questions
 Reach out to me at one of the following places!
 
 - email at `389570357@qq.com`
+- weixin : `litnmnm`
+
 
 ![shadowcz007's github stats](https://github-readme-stats.vercel.app/api?username=shadowcz007)
 
