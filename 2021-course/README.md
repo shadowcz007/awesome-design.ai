@@ -1,6 +1,6 @@
 # 2021课程
 
-- <a href="https://cdn.jsdelivr.net/gh/shadowcz007/awesome-design.ai@main/2021-course/%E9%A2%84%E4%B9%A0%E6%8C%87%E5%8D%97.pdf" target="_blank">预习指南.pdf</a>
+- [预习指南.pdf](https://cdn.jsdelivr.net/gh/shadowcz007/awesome-design.ai@main/2021-course/%E9%A2%84%E4%B9%A0%E6%8C%87%E5%8D%97.pdf)
 - [DAY01-智能设计前沿-Hello_world.pdf](https://cdn.jsdelivr.net/gh/shadowcz007/awesome-design.ai@main/2021-course/DAY01-%E6%99%BA%E8%83%BD%E8%AE%BE%E8%AE%A1%E5%89%8D%E6%B2%BF-Hello_world.pdf)
 - [Day02-_Software_design-_智能设计初步.pdf](https://cdn.jsdelivr.net/gh/shadowcz007/awesome-design.ai@main/2021-course/Day02-_Software_design-_%E6%99%BA%E8%83%BD%E8%AE%BE%E8%AE%A1%E5%88%9D%E6%AD%A5.pdf)
 - [Day03-智能设计系统.pdf](https://cdn.jsdelivr.net/gh/shadowcz007/awesome-design.ai@main/2021-course/Day03-%E6%99%BA%E8%83%BD%E8%AE%BE%E8%AE%A1%E7%B3%BB%E7%BB%9F.pdf)
