@@ -87,7 +87,7 @@
 - [The Coding Train](https://thecodingtrain.com)
 - [Timrodenbroker](https://timrodenbroeker.de/resources)
 - [ml4a](https://ml4a.github.io/classes)
-
+- [Product Hunt – The best new products in tech](https://www.producthunt.com)
 
 ## Smart Products
 
