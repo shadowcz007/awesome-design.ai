@@ -16,6 +16,7 @@
 
 | Title | Publication | Links | 
 | --- | --- | --- |
+| Endless Loops: Detecting and Animating Periodic Patterns in Still Images | SIGGRAPH 2021 | [paper](https://pub.res.lightricks.com/endless-loops/) |
 | Screen Recognition: Creating Accessibility Metadata for Mobile Applications from Pixels <br>通过屏幕截图识别UI语义 | CHI 2021 | [paper](https://dl.acm.org/doi/fullHtml/10.1145/3411764.3445186) |
 | House-GAN++: Generative Adversarial Layout Refinement Networks <br>建筑平面图生成 | CVPR 2021 | [paper](https://arxiv.org/abs/2103.02574) [笔记](https://mp.weixin.qq.com/s/jtPtiLagnJ2jiXmJtmCUcA)|
 | Vinci: An Intelligent Graphic Design System for Generating Advertising Posters <br>用于生成广告海报的智能图形设计系统 | CHI 2021 |[paper](https://dl.acm.org/doi/fullHtml/10.1145/3411764.3445117)|
