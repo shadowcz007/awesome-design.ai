@@ -148,7 +148,6 @@ Create content briefs and answer questions
 
 ## Other
 - [Color libraries for Material You](https://github.com/material-foundation/material-color-utilities)
-- 
 谷歌的智能UI所使用的颜色配色方案
 
 ## Guide
