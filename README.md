@@ -99,6 +99,9 @@ Create images from text
 -	[Designs.ai](https://designs.ai/en/logomaker) 
 Create logos
 
+-	[igly.ai](https://igly.ai/) 
+Edit product and marketing images with AI background removal, inpainting, upscaling, and generative fill
+
 -	[This Person Does Not Exist](https://thispersondoesnotexist.com/) 
 Generate faces
 
